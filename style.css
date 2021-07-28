@@ -1,0 +1,79 @@
+body {
+  background-color: #334257;
+}
+
+.img-circle {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
+
+.description {
+  padding: 20px 0;
+}
+
+.btn-red {
+  background-color: #334257;
+  color: #EEEEEE;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.card {
+  background-color: #EEEEEE;
+  padding: 40px;
+  width: 40%;
+  box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+  border-radius: 4px;
+  margin: 20px auto;
+}
+
+p {
+  font-family: 'Lora', serif;
+  color: #476072;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+h3 {
+  font-weight: 700;
+}
+
+h1, h3 {
+  font-family: 'Roboto', sans-serif;
+  color: #476072;
+}
+li {
+  display: inline-block;
+  list-style-type: disc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+  padding: 0px 20px;
+  font-size: 40px;
+}
+
+a:hover {
+  background-color: #476072;
+}
+
+.container {
+  text-align: center;
+  margin: 40px auto;
+}
+
+.favcon {
+  text-decoration: none;
+  color: #334257;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
